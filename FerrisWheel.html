@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Ferris Wheel</title>
-    <link rel="stylesheet" href="\wheel.css">
+    <link rel="stylesheet" href="wheel.css">
   </head>
   <body>
     <div class="wheel">
